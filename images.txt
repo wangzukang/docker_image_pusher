@@ -3,5 +3,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/library/ubuntu
-docker.io/library/mysql:8.0
+#docker.io/library/ubuntu
+#docker.io/library/mysql:8.0
+docker.io/library/php:8.3-fpm
+docker.io/library/php:8.2-fpm
