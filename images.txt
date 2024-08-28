@@ -6,8 +6,8 @@
 #docker.io/library/ubuntu
 #docker.io/library/php:8.3-fpm
 #docker.io/library/php:8.2-fpm
-#docker.io/library/mysql:8.0
-#docker.io/library/mysql:8.4
+docker.io/library/mysql:8.0
+docker.io/library/mysql:8.4
 #docker.io/library/nginx:stable
-docker.io/library/ubuntu
-docker.io/library/ubuntu:22.04
+#docker.io/library/ubuntu
+#docker.io/library/ubuntu:22.04
