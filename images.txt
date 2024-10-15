@@ -10,4 +10,4 @@
 #docker.io/library/nginx:stable
 #docker.io/library/ubuntu
 #docker.io/library/ubuntu:22.04
-docker.io/library/ollama
+ollama/ollama
