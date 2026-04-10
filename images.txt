@@ -12,5 +12,5 @@
 #docker.io/library/nginx:latest
 docker.io/library/ubuntu
 docker.io/library/ubuntu:22.04
-#docker.io/library/postgres:latest
+docker.io/library/postgres:latest
 #docker.io/library/postgres:17
